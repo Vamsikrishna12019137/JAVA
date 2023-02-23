@@ -7,6 +7,7 @@ public class Solution {
         }
     }
 
+    
     public static void main(String... vamsi) {
         int n = 2;
         int result = factorial(n);
